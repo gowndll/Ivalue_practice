@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.md" server="hgp2020.cafe24.com//www/" local="132591202532751433" remote="132408540000000000" Dst="0" />
+<file name="Compiler.php" server="hgp2020.cafe24.com//www/" local="132591202532771487" remote="132408540000000000" Dst="0" />
+<file name="Expression.php" server="hgp2020.cafe24.com//www/" local="132591202532789191" remote="132408540000000000" Dst="0" />
+<file name="ExpressionFunctionProviderInterface.php" server="hgp2020.cafe24.com//www/" local="132591202533052536" remote="132408540000000000" Dst="0" />
+<file name="ExpressionFunction.php" server="hgp2020.cafe24.com//www/" local="132591202533080391" remote="132408540000000000" Dst="0" />
+<file name="ExpressionLanguage.php" server="hgp2020.cafe24.com//www/" local="132591202533110312" remote="132408540000000000" Dst="0" />
+<file name="LICENSE" server="hgp2020.cafe24.com//www/" local="132591202533320407" remote="132408540000000000" Dst="0" />
+<file name="Lexer.php" server="hgp2020.cafe24.com//www/" local="132591202533340355" remote="132408540000000000" Dst="0" />
+<file name="ParsedExpression.php" server="hgp2020.cafe24.com//www/" local="132591202534463393" remote="132408540000000000" Dst="0" />
+<file name="Parser.php" server="hgp2020.cafe24.com//www/" local="132591202534974270" remote="132408540000000000" Dst="0" />
+<file name="README.md" server="hgp2020.cafe24.com//www/" local="132591202535038111" remote="132408540000000000" Dst="0" />
+<file name="SerializedParsedExpression.php" server="hgp2020.cafe24.com//www/" local="132591202535050041" remote="132408540000000000" Dst="0" />
+<file name="SyntaxError.php" server="hgp2020.cafe24.com//www/" local="132591202535079992" remote="132408540000000000" Dst="0" />
+<file name="Token.php" server="hgp2020.cafe24.com//www/" local="132591202535158910" remote="132408540000000000" Dst="0" />
+<file name="TokenStream.php" server="hgp2020.cafe24.com//www/" local="132591202535628440" remote="132408540000000000" Dst="0" />
+<file name="composer.json" server="hgp2020.cafe24.com//www/" local="132591202535638671" remote="132408540000000000" Dst="0" />
+</dwsync>

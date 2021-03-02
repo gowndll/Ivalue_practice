@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayNodeDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202461941026" remote="132408540000000000" Dst="0" />
+<file name="BooleanNodeDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202462788769" remote="132408540000000000" Dst="0" />
+<file name="BuilderAwareInterface.php" server="hgp2020.cafe24.com//www/" local="132591202463347266" remote="132408540000000000" Dst="0" />
+<file name="EnumNodeDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202463845939" remote="132408540000000000" Dst="0" />
+<file name="FloatNodeDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202464434377" remote="132408540000000000" Dst="0" />
+<file name="IntegerNodeDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202464992870" remote="132408540000000000" Dst="0" />
+<file name="ExprBuilder.php" server="hgp2020.cafe24.com//www/" local="132591202465411753" remote="132408540000000000" Dst="0" />
+<file name="MergeBuilder.php" server="hgp2020.cafe24.com//www/" local="132591202465890472" remote="132408540000000000" Dst="0" />
+<file name="NodeBuilder.php" server="hgp2020.cafe24.com//www/" local="132591202466429046" remote="132408540000000000" Dst="0" />
+<file name="NodeDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202466937672" remote="132408540000000000" Dst="0" />
+<file name="NodeParentInterface.php" server="hgp2020.cafe24.com//www/" local="132591202467137139" remote="132408540000000000" Dst="0" />
+<file name="NormalizationBuilder.php" server="hgp2020.cafe24.com//www/" local="132591202467915058" remote="132408540000000000" Dst="0" />
+<file name="NumericNodeDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202468323972" remote="132408540000000000" Dst="0" />
+<file name="ParentNodeDefinitionInterface.php" server="hgp2020.cafe24.com//www/" local="132591202468822638" remote="132408540000000000" Dst="0" />
+<file name="ScalarNodeDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202469351217" remote="132408540000000000" Dst="0" />
+<file name="TreeBuilder.php" server="hgp2020.cafe24.com//www/" local="132591202469959593" remote="132408540000000000" Dst="0" />
+<file name="ValidationBuilder.php" server="hgp2020.cafe24.com//www/" local="132591202470198959" remote="132408540000000000" Dst="0" />
+<file name="VariableNodeDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202470677673" remote="132408540000000000" Dst="0" />
+</dwsync>

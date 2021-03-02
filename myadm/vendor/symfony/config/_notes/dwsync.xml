@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.md" server="hgp2020.cafe24.com//www/" local="132591202458480278" remote="132408540000000000" Dst="0" />
+<file name="ConfigCache.php" server="hgp2020.cafe24.com//www/" local="132591202458699699" remote="132408540000000000" Dst="0" />
+<file name="ConfigCacheFactory.php" server="hgp2020.cafe24.com//www/" local="132591202459268180" remote="132408540000000000" Dst="0" />
+<file name="ConfigCacheFactoryInterface.php" server="hgp2020.cafe24.com//www/" local="132591202459906466" remote="132408540000000000" Dst="0" />
+<file name="ConfigCacheInterface.php" server="hgp2020.cafe24.com//www/" local="132591202460365241" remote="132408540000000000" Dst="0" />
+<file name="FileLocator.php" server="hgp2020.cafe24.com//www/" local="132591202486964142" remote="132408540000000000" Dst="0" />
+<file name="FileLocatorInterface.php" server="hgp2020.cafe24.com//www/" local="132591202487771994" remote="132408540000000000" Dst="0" />
+<file name="LICENSE" server="hgp2020.cafe24.com//www/" local="132591202488400309" remote="132408540000000000" Dst="0" />
+<file name="README.md" server="hgp2020.cafe24.com//www/" local="132591202497126984" remote="132408540000000000" Dst="0" />
+<file name="ResourceCheckerConfigCache.php" server="hgp2020.cafe24.com//www/" local="132591202500388265" remote="132408540000000000" Dst="0" />
+<file name="ResourceCheckerConfigCacheFactory.php" server="hgp2020.cafe24.com//www/" local="132591202501206087" remote="132408540000000000" Dst="0" />
+<file name="ResourceCheckerInterface.php" server="hgp2020.cafe24.com//www/" local="132591202501964065" remote="132408540000000000" Dst="0" />
+<file name="composer.json" server="hgp2020.cafe24.com//www/" local="132591202503749287" remote="132408540000000000" Dst="0" />
+</dwsync>

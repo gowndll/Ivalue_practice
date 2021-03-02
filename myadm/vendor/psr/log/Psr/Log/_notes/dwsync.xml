@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="hgp2020.cafe24.com//www/" local="132591202359983572" remote="132408540000000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="hgp2020.cafe24.com//www/" local="132591202360193006" remote="132408540000000000" Dst="0" />
+<file name="LogLevel.php" server="hgp2020.cafe24.com//www/" local="132591202360562018" remote="132408540000000000" Dst="0" />
+<file name="LoggerAwareInterface.php" server="hgp2020.cafe24.com//www/" local="132591202361339936" remote="132408540000000000" Dst="0" />
+<file name="LoggerAwareTrait.php" server="hgp2020.cafe24.com//www/" local="132591202362496845" remote="132408540000000000" Dst="0" />
+<file name="LoggerInterface.php" server="hgp2020.cafe24.com//www/" local="132591202363015462" remote="132408540000000000" Dst="0" />
+<file name="LoggerTrait.php" server="hgp2020.cafe24.com//www/" local="132591202364032740" remote="132408540000000000" Dst="0" />
+<file name="NullLogger.php" server="hgp2020.cafe24.com//www/" local="132591202365259458" remote="132408540000000000" Dst="0" />
+</dwsync>

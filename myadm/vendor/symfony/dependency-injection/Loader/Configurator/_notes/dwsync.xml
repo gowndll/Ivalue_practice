@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202524033270" remote="132408540000000000" Dst="0" />
+<file name="AbstractServiceConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202524053206" remote="132408540000000000" Dst="0" />
+<file name="AliasConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202524152937" remote="132408540000000000" Dst="0" />
+<file name="ContainerConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202524182856" remote="132408540000000000" Dst="0" />
+<file name="DefaultsConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202524627069" remote="132408540000000000" Dst="0" />
+<file name="InlineServiceConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202524641652" remote="132408540000000000" Dst="0" />
+<file name="InstanceofConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202525074154" remote="132408540000000000" Dst="0" />
+<file name="ParametersConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202525084111" remote="132408540000000000" Dst="0" />
+<file name="PrototypeConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202525401682" remote="132408540000000000" Dst="0" />
+<file name="ReferenceConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202525411653" remote="132408540000000000" Dst="0" />
+<file name="ServiceConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202525820554" remote="132408540000000000" Dst="0" />
+<file name="ServicesConfigurator.php" server="hgp2020.cafe24.com//www/" local="132591202525840501" remote="132408540000000000" Dst="0" />
+</dwsync>

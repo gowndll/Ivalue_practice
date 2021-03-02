@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DKIM.phps" server="hgp2020.cafe24.com//www/" local="132591202640425796" remote="132284988000000000" Dst="0" />
+<file name="code_generator.phps" server="hgp2020.cafe24.com//www/" local="132591202640465681" remote="132284988000000000" Dst="0" />
+<file name="contactform.phps" server="hgp2020.cafe24.com//www/" local="132591202640774853" remote="132284988000000000" Dst="0" />
+<file name="contents.html" server="hgp2020.cafe24.com//www/" local="132591202640844668" remote="132284988000000000" Dst="0" />
+<file name="contentsutf8.html" server="hgp2020.cafe24.com//www/" local="132591202641223658" remote="132284988000000000" Dst="0" />
+<file name="exceptions.phps" server="hgp2020.cafe24.com//www/" local="132591202641263554" remote="132284988000000000" Dst="0" />
+<file name="gmail.phps" server="hgp2020.cafe24.com//www/" local="132591202641746190" remote="132284988000000000" Dst="0" />
+<file name="gmail_xoauth.phps" server="hgp2020.cafe24.com//www/" local="132591202641766139" remote="132284988000000000" Dst="0" />
+<file name="index.html" server="hgp2020.cafe24.com//www/" local="132591202642374512" remote="132284988000000000" Dst="0" />
+<file name="mail.phps" server="hgp2020.cafe24.com//www/" local="132591202642434394" remote="132284988000000000" Dst="0" />
+<file name="pop_before_smtp.phps" server="hgp2020.cafe24.com//www/" local="132591202642524113" remote="132284988000000000" Dst="0" />
+<file name="mailing_list.phps" server="hgp2020.cafe24.com//www/" local="132591202642544105" remote="132284988000000000" Dst="0" />
+<file name="send_file_upload.phps" server="hgp2020.cafe24.com//www/" local="132591202643511471" remote="132284988000000000" Dst="0" />
+<file name="sendmail.phps" server="hgp2020.cafe24.com//www/" local="132591202643790731" remote="132284988000000000" Dst="0" />
+<file name="send_multiple_file_upload.phps" server="hgp2020.cafe24.com//www/" local="132591202643800697" remote="132284988000000000" Dst="0" />
+<file name="signed-mail.phps" server="hgp2020.cafe24.com//www/" local="132591202644040062" remote="132284988000000000" Dst="0" />
+<file name="smtp.phps" server="hgp2020.cafe24.com//www/" local="132591202644060010" remote="132284988000000000" Dst="0" />
+<file name="smtp_check.phps" server="hgp2020.cafe24.com//www/" local="132591202644089940" remote="132284988000000000" Dst="0" />
+<file name="smtp_no_auth.phps" server="hgp2020.cafe24.com//www/" local="132591202644169711" remote="132284988000000000" Dst="0" />
+<file name="ssl_options.phps" server="hgp2020.cafe24.com//www/" local="132591202644488888" remote="132284988000000000" Dst="0" />
+</dwsync>

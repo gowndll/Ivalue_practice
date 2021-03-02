@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AutowiringFailedException.php" server="hgp2020.cafe24.com//www/" local="132591202520137553" remote="132408540000000000" Dst="0" />
+<file name="BadMethodCallException.php" server="hgp2020.cafe24.com//www/" local="132591202520147522" remote="132408540000000000" Dst="0" />
+<file name="EnvNotFoundException.php" server="hgp2020.cafe24.com//www/" local="132591202520167464" remote="132408540000000000" Dst="0" />
+<file name="EnvParameterException.php" server="hgp2020.cafe24.com//www/" local="132591202520426775" remote="132408540000000000" Dst="0" />
+<file name="ExceptionInterface.php" server="hgp2020.cafe24.com//www/" local="132591202520456691" remote="132408540000000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="hgp2020.cafe24.com//www/" local="132591202520725972" remote="132408540000000000" Dst="0" />
+<file name="InvalidParameterTypeException.php" server="hgp2020.cafe24.com//www/" local="132591202520745920" remote="132408540000000000" Dst="0" />
+<file name="LogicException.php" server="hgp2020.cafe24.com//www/" local="132591202520845654" remote="132408540000000000" Dst="0" />
+<file name="OutOfBoundsException.php" server="hgp2020.cafe24.com//www/" local="132591202520855629" remote="132408540000000000" Dst="0" />
+<file name="ParameterCircularReferenceException.php" server="hgp2020.cafe24.com//www/" local="132591202521184743" remote="132408540000000000" Dst="0" />
+<file name="ParameterNotFoundException.php" server="hgp2020.cafe24.com//www/" local="132591202521204690" remote="132408540000000000" Dst="0" />
+<file name="RuntimeException.php" server="hgp2020.cafe24.com//www/" local="132591202521244582" remote="132408540000000000" Dst="0" />
+<file name="ServiceCircularReferenceException.php" server="hgp2020.cafe24.com//www/" local="132591202521294455" remote="132408540000000000" Dst="0" />
+<file name="ServiceNotFoundException.php" server="hgp2020.cafe24.com//www/" local="132591202521633551" remote="132408540000000000" Dst="0" />
+</dwsync>

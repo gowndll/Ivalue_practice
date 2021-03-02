@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractExtension.php" server="hgp2020.cafe24.com//www/" local="132591202605316421" remote="132408540000000000" Dst="0" />
+<file name="CoreExtension.php" server="hgp2020.cafe24.com//www/" local="132591202605406178" remote="132408540000000000" Dst="0" />
+<file name="DebugExtension.php" server="hgp2020.cafe24.com//www/" local="132591202605554428" remote="132408540000000000" Dst="0" />
+<file name="EscaperExtension.php" server="hgp2020.cafe24.com//www/" local="132591202605574376" remote="132408540000000000" Dst="0" />
+<file name="ExtensionInterface.php" server="hgp2020.cafe24.com//www/" local="132591202605673948" remote="132408540000000000" Dst="0" />
+<file name="GlobalsInterface.php" server="hgp2020.cafe24.com//www/" local="132591202605691490" remote="132408540000000000" Dst="0" />
+<file name="InitRuntimeInterface.php" server="hgp2020.cafe24.com//www/" local="132591202605972598" remote="132408540000000000" Dst="0" />
+<file name="OptimizerExtension.php" server="hgp2020.cafe24.com//www/" local="132591202606081121" remote="132408540000000000" Dst="0" />
+<file name="ProfilerExtension.php" server="hgp2020.cafe24.com//www/" local="132591202606255352" remote="132408540000000000" Dst="0" />
+<file name="RuntimeExtensionInterface.php" server="hgp2020.cafe24.com//www/" local="132591202606275306" remote="132408540000000000" Dst="0" />
+<file name="SandboxExtension.php" server="hgp2020.cafe24.com//www/" local="132591202606371475" remote="132408540000000000" Dst="0" />
+<file name="StagingExtension.php" server="hgp2020.cafe24.com//www/" local="132591202606391441" remote="132408540000000000" Dst="0" />
+<file name="StringLoaderExtension.php" server="hgp2020.cafe24.com//www/" local="132591202606561134" remote="132408540000000000" Dst="0" />
+</dwsync>

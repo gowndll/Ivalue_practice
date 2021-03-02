@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="advisory_rules_mysql_before80003.txt" server="hgp2020.cafe24.com//www/" local="132591201947384379" remote="132408540000000000" Dst="0" />
+<file name="advisory_rules_generic.txt" server="hgp2020.cafe24.com//www/" local="132591201947397744" remote="132408540000000000" Dst="0" />
+<file name="common.inc.php" server="hgp2020.cafe24.com//www/" local="132591202008495875" remote="132408540000000000" Dst="0" />
+<file name="config.values.php" server="hgp2020.cafe24.com//www/" local="132591202008635498" remote="132408540000000000" Dst="0" />
+<file name="config.default.php" server="hgp2020.cafe24.com//www/" local="132591202008655445" remote="132408540000000000" Dst="0" />
+<file name="db_common.inc.php" server="hgp2020.cafe24.com//www/" local="132591202008914755" remote="132408540000000000" Dst="0" />
+<file name="db_table_exists.inc.php" server="hgp2020.cafe24.com//www/" local="132591202008954654" remote="132408540000000000" Dst="0" />
+<file name="language_stats.inc.php" server="hgp2020.cafe24.com//www/" local="132591202009203977" remote="132408540000000000" Dst="0" />
+<file name="replication.inc.php" server="hgp2020.cafe24.com//www/" local="132591202011308355" remote="132408540000000000" Dst="0" />
+<file name="server_common.inc.php" server="hgp2020.cafe24.com//www/" local="132591202011328298" remote="132408540000000000" Dst="0" />
+<file name="tbl_common.inc.php" server="hgp2020.cafe24.com//www/" local="132591202011438005" remote="132408540000000000" Dst="0" />
+<file name="tbl_columns_definition_form.inc.php" server="hgp2020.cafe24.com//www/" local="132591202011457956" remote="132408540000000000" Dst="0" />
+<file name="vendor_config.php" server="hgp2020.cafe24.com//www/" local="132591202011537739" remote="132408540000000000" Dst="0" />
+<file name="mult_submits.inc.php" server="hgp2020.cafe24.com//www/" local="132591202232796165" remote="132408540000000000" Dst="0" />
+</dwsync>

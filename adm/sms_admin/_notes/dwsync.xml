@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_common.php" server="hgp2020.cafe24.com//www/" local="132591201818750925" remote="132284988000000000" Dst="0" />
+<file name="ajax.hp_chk.php" server="hgp2020.cafe24.com//www/" local="132591201818800789" remote="132284988000000000" Dst="0" />
+<file name="ajax.sms_write_form.php" server="hgp2020.cafe24.com//www/" local="132591201818820732" remote="132284988000000000" Dst="0" />
+<file name="ajax.sms_write_group.php" server="hgp2020.cafe24.com//www/" local="132591201818880579" remote="132284988000000000" Dst="0" />
+<file name="ajax.sms_write_level.php" server="hgp2020.cafe24.com//www/" local="132591201818910494" remote="132284988000000000" Dst="0" />
+<file name="ajax.sms_write_person.php" server="hgp2020.cafe24.com//www/" local="132591201818940419" remote="132284988000000000" Dst="0" />
+<file name="config.php" server="hgp2020.cafe24.com//www/" local="132591201819010227" remote="132284988000000000" Dst="0" />
+<file name="config_update.php" server="hgp2020.cafe24.com//www/" local="132591201819030175" remote="132284988000000000" Dst="0" />
+<file name="emoticon_move.php" server="hgp2020.cafe24.com//www/" local="132591201819149856" remote="132284988000000000" Dst="0" />
+<file name="emoticon_move_update.php" server="hgp2020.cafe24.com//www/" local="132591201819169809" remote="132284988000000000" Dst="0" />
+<file name="form_group.php" server="hgp2020.cafe24.com//www/" local="132591201819189754" remote="132284988000000000" Dst="0" />
+<file name="form_group_move.php" server="hgp2020.cafe24.com//www/" local="132591201819498931" remote="132284988000000000" Dst="0" />
+<file name="form_group_update.php" server="hgp2020.cafe24.com//www/" local="132591201819548787" remote="132284988000000000" Dst="0" />
+<file name="form_list.php" server="hgp2020.cafe24.com//www/" local="132591201819568743" remote="132284988000000000" Dst="0" />
+<file name="form_multi_update.php" server="hgp2020.cafe24.com//www/" local="132591201819628579" remote="132284988000000000" Dst="0" />
+<file name="form_update.php" server="hgp2020.cafe24.com//www/" local="132591201819658496" remote="132284988000000000" Dst="0" />
+<file name="form_write.php" server="hgp2020.cafe24.com//www/" local="132591201819678442" remote="132284988000000000" Dst="0" />
+<file name="history_list.php" server="hgp2020.cafe24.com//www/" local="132591201819758231" remote="132284988000000000" Dst="0" />
+<file name="history_num.php" server="hgp2020.cafe24.com//www/" local="132591201819778176" remote="132284988000000000" Dst="0" />
+<file name="history_send.php" server="hgp2020.cafe24.com//www/" local="132591201819798125" remote="132284988000000000" Dst="0" />
+<file name="history_view.php" server="hgp2020.cafe24.com//www/" local="132591201819887888" remote="132284988000000000" Dst="0" />
+<file name="install.php" server="hgp2020.cafe24.com//www/" local="132591201820157175" remote="132284988000000000" Dst="0" />
+<file name="member_update.php" server="hgp2020.cafe24.com//www/" local="132591201820236947" remote="132284988000000000" Dst="0" />
+<file name="member_update_run.php" server="hgp2020.cafe24.com//www/" local="132591201820266866" remote="132284988000000000" Dst="0" />
+<file name="num_book.php" server="hgp2020.cafe24.com//www/" local="132591201820286822" remote="132284988000000000" Dst="0" />
+<file name="num_book_file.php" server="hgp2020.cafe24.com//www/" local="132591201820446390" remote="132284988000000000" Dst="0" />
+<file name="num_book_file_download.php" server="hgp2020.cafe24.com//www/" local="132591201820476312" remote="132284988000000000" Dst="0" />
+<file name="num_book_file_upload.php" server="hgp2020.cafe24.com//www/" local="132591201820496270" remote="132284988000000000" Dst="0" />
+<file name="num_book_move.php" server="hgp2020.cafe24.com//www/" local="132591201820566068" remote="132284988000000000" Dst="0" />
+<file name="num_book_multi_update.php" server="hgp2020.cafe24.com//www/" local="132591201820586019" remote="132284988000000000" Dst="0" />
+<file name="num_book_update.php" server="hgp2020.cafe24.com//www/" local="132591201820625908" remote="132284988000000000" Dst="0" />
+<file name="num_book_write.php" server="hgp2020.cafe24.com//www/" local="132591201820665804" remote="132284988000000000" Dst="0" />
+<file name="num_group.php" server="hgp2020.cafe24.com//www/" local="132591201820715673" remote="132284988000000000" Dst="0" />
+<file name="num_group_move.php" server="hgp2020.cafe24.com//www/" local="132591201820735618" remote="132284988000000000" Dst="0" />
+<file name="num_group_update.php" server="hgp2020.cafe24.com//www/" local="132591201820775523" remote="132284988000000000" Dst="0" />
+<file name="number_move_update.php" server="hgp2020.cafe24.com//www/" local="132591201821194388" remote="132284988000000000" Dst="0" />
+<file name="sms5.sql" server="hgp2020.cafe24.com//www/" local="132591201821234287" remote="132284988000000000" Dst="0" />
+<file name="sms_ing.php" server="hgp2020.cafe24.com//www/" local="132591201821254229" remote="132284988000000000" Dst="0" />
+<file name="sms_write.php" server="hgp2020.cafe24.com//www/" local="132591201821334019" remote="132284988000000000" Dst="0" />
+<file name="sms_write_form.php" server="hgp2020.cafe24.com//www/" local="132591201821693054" remote="132284988000000000" Dst="0" />
+<file name="sms_write_overlap_check.php" server="hgp2020.cafe24.com//www/" local="132591201821713004" remote="132284988000000000" Dst="0" />
+<file name="sms_write_send.php" server="hgp2020.cafe24.com//www/" local="132591201821782834" remote="132284988000000000" Dst="0" />
+</dwsync>

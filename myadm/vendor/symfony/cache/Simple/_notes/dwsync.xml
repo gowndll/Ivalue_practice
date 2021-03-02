@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCache.php" server="hgp2020.cafe24.com//www/" local="132591202431811569" remote="132408540000000000" Dst="0" />
+<file name="ApcuCache.php" server="hgp2020.cafe24.com//www/" local="132591202432559565" remote="132408540000000000" Dst="0" />
+<file name="ArrayCache.php" server="hgp2020.cafe24.com//www/" local="132591202433048261" remote="132408540000000000" Dst="0" />
+<file name="ChainCache.php" server="hgp2020.cafe24.com//www/" local="132591202433467142" remote="132408540000000000" Dst="0" />
+<file name="DoctrineCache.php" server="hgp2020.cafe24.com//www/" local="132591202434085490" remote="132408540000000000" Dst="0" />
+<file name="FilesystemCache.php" server="hgp2020.cafe24.com//www/" local="132591202434723781" remote="132408540000000000" Dst="0" />
+<file name="MemcachedCache.php" server="hgp2020.cafe24.com//www/" local="132591202435411945" remote="132408540000000000" Dst="0" />
+<file name="NullCache.php" server="hgp2020.cafe24.com//www/" local="132591202435840794" remote="132408540000000000" Dst="0" />
+<file name="PdoCache.php" server="hgp2020.cafe24.com//www/" local="132591202436509010" remote="132408540000000000" Dst="0" />
+<file name="PhpArrayCache.php" server="hgp2020.cafe24.com//www/" local="132591202436947843" remote="132408540000000000" Dst="0" />
+<file name="PhpFilesCache.php" server="hgp2020.cafe24.com//www/" local="132591202437376690" remote="132408540000000000" Dst="0" />
+<file name="Psr6Cache.php" server="hgp2020.cafe24.com//www/" local="132591202437785598" remote="132408540000000000" Dst="0" />
+<file name="RedisCache.php" server="hgp2020.cafe24.com//www/" local="132591202438314186" remote="132408540000000000" Dst="0" />
+<file name="TraceableCache.php" server="hgp2020.cafe24.com//www/" local="132591202438523623" remote="132408540000000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractAdapterTrait.php" server="hgp2020.cafe24.com//www/" local="132591202439032262" remote="132408540000000000" Dst="0" />
+<file name="AbstractTrait.php" server="hgp2020.cafe24.com//www/" local="132591202439501015" remote="132408540000000000" Dst="0" />
+<file name="ApcuTrait.php" server="hgp2020.cafe24.com//www/" local="132591202439640645" remote="132408540000000000" Dst="0" />
+<file name="ArrayTrait.php" server="hgp2020.cafe24.com//www/" local="132591202440079470" remote="132408540000000000" Dst="0" />
+<file name="ContractsTrait.php" server="hgp2020.cafe24.com//www/" local="132591202441116697" remote="132408540000000000" Dst="0" />
+<file name="DoctrineTrait.php" server="hgp2020.cafe24.com//www/" local="132591202441725065" remote="132408540000000000" Dst="0" />
+<file name="FilesystemCommonTrait.php" server="hgp2020.cafe24.com//www/" local="132591202442383315" remote="132408540000000000" Dst="0" />
+<file name="FilesystemTrait.php" server="hgp2020.cafe24.com//www/" local="132591202442921865" remote="132408540000000000" Dst="0" />
+<file name="MemcachedTrait.php" server="hgp2020.cafe24.com//www/" local="132591202443400587" remote="132408540000000000" Dst="0" />
+<file name="PdoTrait.php" server="hgp2020.cafe24.com//www/" local="132591202443639945" remote="132408540000000000" Dst="0" />
+<file name="PhpArrayTrait.php" server="hgp2020.cafe24.com//www/" local="132591202444268272" remote="132408540000000000" Dst="0" />
+<file name="PhpFilesTrait.php" server="hgp2020.cafe24.com//www/" local="132591202444776911" remote="132408540000000000" Dst="0" />
+<file name="ProxyTrait.php" server="hgp2020.cafe24.com//www/" local="132591202445405228" remote="132408540000000000" Dst="0" />
+<file name="RedisClusterProxy.php" server="hgp2020.cafe24.com//www/" local="132591202446023579" remote="132408540000000000" Dst="0" />
+<file name="RedisProxy.php" server="hgp2020.cafe24.com//www/" local="132591202446272911" remote="132408540000000000" Dst="0" />
+<file name="RedisTrait.php" server="hgp2020.cafe24.com//www/" local="132591202446791522" remote="132408540000000000" Dst="0" />
+</dwsync>

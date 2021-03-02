@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DelegatingLoader.php" server="hgp2020.cafe24.com//www/" local="132591202488450173" remote="132408540000000000" Dst="0" />
+<file name="FileLoader.php" server="hgp2020.cafe24.com//www/" local="132591202489008681" remote="132408540000000000" Dst="0" />
+<file name="GlobFileLoader.php" server="hgp2020.cafe24.com//www/" local="132591202489816518" remote="132408540000000000" Dst="0" />
+<file name="Loader.php" server="hgp2020.cafe24.com//www/" local="132591202490285263" remote="132408540000000000" Dst="0" />
+<file name="LoaderInterface.php" server="hgp2020.cafe24.com//www/" local="132591202490724088" remote="132408540000000000" Dst="0" />
+<file name="LoaderResolver.php" server="hgp2020.cafe24.com//www/" local="132591202491242705" remote="132408540000000000" Dst="0" />
+<file name="LoaderResolverInterface.php" server="hgp2020.cafe24.com//www/" local="132591202496867676" remote="132408540000000000" Dst="0" />
+</dwsync>

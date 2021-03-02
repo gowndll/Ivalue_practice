@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="LICENSE" server="hgp2020.cafe24.com//www/" local="132591202636831869" remote="132284988000000000" Dst="0" />
+<file name="PHPMailerAutoload.php" server="hgp2020.cafe24.com//www/" local="132591202636851816" remote="132284988000000000" Dst="0" />
+<file name="README.md" server="hgp2020.cafe24.com//www/" local="132591202637360453" remote="132284988000000000" Dst="0" />
+<file name="VERSION" server="hgp2020.cafe24.com//www/" local="132591202637390379" remote="132284988000000000" Dst="0" />
+<file name="changelog.md" server="hgp2020.cafe24.com//www/" local="132591202637659656" remote="132284988000000000" Dst="0" />
+<file name="class.phpmailer.php" server="hgp2020.cafe24.com//www/" local="132591202637773611" remote="132284988000000000" Dst="0" />
+<file name="class.phpmaileroauth.php" server="hgp2020.cafe24.com//www/" local="132591202638042888" remote="132284988000000000" Dst="0" />
+<file name="class.phpmaileroauthgoogle.php" server="hgp2020.cafe24.com//www/" local="132591202638062833" remote="132284988000000000" Dst="0" />
+<file name="class.pop3.php" server="hgp2020.cafe24.com//www/" local="132591202638187786" remote="132284988000000000" Dst="0" />
+<file name="class.smtp.php" server="hgp2020.cafe24.com//www/" local="132591202638227416" remote="132284988000000000" Dst="0" />
+<file name="composer.json" server="hgp2020.cafe24.com//www/" local="132591202638466783" remote="132284988000000000" Dst="0" />
+<file name="composer.lock" server="hgp2020.cafe24.com//www/" local="132591202638572445" remote="132284988000000000" Dst="0" />
+<file name="get_oauth_token.php" server="hgp2020.cafe24.com//www/" local="132591202648244924" remote="132284988000000000" Dst="0" />
+</dwsync>

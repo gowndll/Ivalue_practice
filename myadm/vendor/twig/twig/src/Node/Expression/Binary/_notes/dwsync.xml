@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBinary.php" server="hgp2020.cafe24.com//www/" local="132591202611154546" remote="132408540000000000" Dst="0" />
+<file name="AddBinary.php" server="hgp2020.cafe24.com//www/" local="132591202611184467" remote="132408540000000000" Dst="0" />
+<file name="AndBinary.php" server="hgp2020.cafe24.com//www/" local="132591202611463723" remote="132408540000000000" Dst="0" />
+<file name="BitwiseAndBinary.php" server="hgp2020.cafe24.com//www/" local="132591202611483671" remote="132408540000000000" Dst="0" />
+<file name="BitwiseOrBinary.php" server="hgp2020.cafe24.com//www/" local="132591202611723031" remote="132408540000000000" Dst="0" />
+<file name="BitwiseXorBinary.php" server="hgp2020.cafe24.com//www/" local="132591202611762932" remote="132408540000000000" Dst="0" />
+<file name="ConcatBinary.php" server="hgp2020.cafe24.com//www/" local="132591202612008519" remote="132408540000000000" Dst="0" />
+<file name="DivBinary.php" server="hgp2020.cafe24.com//www/" local="132591202612058061" remote="132408540000000000" Dst="0" />
+<file name="EndsWithBinary.php" server="hgp2020.cafe24.com//www/" local="132591202612286697" remote="132408540000000000" Dst="0" />
+<file name="EqualBinary.php" server="hgp2020.cafe24.com//www/" local="132591202612304674" remote="132408540000000000" Dst="0" />
+<file name="FloorDivBinary.php" server="hgp2020.cafe24.com//www/" local="132591202612551566" remote="132408540000000000" Dst="0" />
+<file name="GreaterBinary.php" server="hgp2020.cafe24.com//www/" local="132591202612571526" remote="132408540000000000" Dst="0" />
+<file name="GreaterEqualBinary.php" server="hgp2020.cafe24.com//www/" local="132591202612820964" remote="132408540000000000" Dst="0" />
+<file name="InBinary.php" server="hgp2020.cafe24.com//www/" local="132591202612840925" remote="132408540000000000" Dst="0" />
+<file name="LessBinary.php" server="hgp2020.cafe24.com//www/" local="132591202613196438" remote="132408540000000000" Dst="0" />
+<file name="LessEqualBinary.php" server="hgp2020.cafe24.com//www/" local="132591202613252493" remote="132408540000000000" Dst="0" />
+<file name="MatchesBinary.php" server="hgp2020.cafe24.com//www/" local="132591202613279322" remote="132408540000000000" Dst="0" />
+<file name="ModBinary.php" server="hgp2020.cafe24.com//www/" local="132591202613531412" remote="132408540000000000" Dst="0" />
+<file name="MulBinary.php" server="hgp2020.cafe24.com//www/" local="132591202613568602" remote="132408540000000000" Dst="0" />
+<file name="NotEqualBinary.php" server="hgp2020.cafe24.com//www/" local="132591202613814676" remote="132408540000000000" Dst="0" />
+<file name="NotInBinary.php" server="hgp2020.cafe24.com//www/" local="132591202613869703" remote="132408540000000000" Dst="0" />
+<file name="OrBinary.php" server="hgp2020.cafe24.com//www/" local="132591202614106806" remote="132408540000000000" Dst="0" />
+<file name="PowerBinary.php" server="hgp2020.cafe24.com//www/" local="132591202614126769" remote="132408540000000000" Dst="0" />
+<file name="RangeBinary.php" server="hgp2020.cafe24.com//www/" local="132591202614376687" remote="132408540000000000" Dst="0" />
+<file name="SpaceshipBinary.php" server="hgp2020.cafe24.com//www/" local="132591202614386192" remote="132408540000000000" Dst="0" />
+<file name="StartsWithBinary.php" server="hgp2020.cafe24.com//www/" local="132591202614745494" remote="132408540000000000" Dst="0" />
+<file name="SubBinary.php" server="hgp2020.cafe24.com//www/" local="132591202614804984" remote="132408540000000000" Dst="0" />
+</dwsync>

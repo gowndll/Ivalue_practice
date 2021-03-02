@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Component.php" server="hgp2020.cafe24.com//www/" local="132591202303089844" remote="132408540000000000" Dst="0" />
+<file name="Context.php" server="hgp2020.cafe24.com//www/" local="132591202306150540" remote="132408540000000000" Dst="0" />
+<file name="Core.php" server="hgp2020.cafe24.com//www/" local="132591202308208187" remote="132408540000000000" Dst="0" />
+<file name="Lexer.php" server="hgp2020.cafe24.com//www/" local="132591202309305267" remote="132408540000000000" Dst="0" />
+<file name="Parser.php" server="hgp2020.cafe24.com//www/" local="132591202309365089" remote="132408540000000000" Dst="0" />
+<file name="Statement.php" server="hgp2020.cafe24.com//www/" local="132591202309385055" remote="132408540000000000" Dst="0" />
+<file name="Token.php" server="hgp2020.cafe24.com//www/" local="132591202312669663" remote="132408540000000000" Dst="0" />
+<file name="TokensList.php" server="hgp2020.cafe24.com//www/" local="132591202313234037" remote="132408540000000000" Dst="0" />
+<file name="Translator.php" server="hgp2020.cafe24.com//www/" local="132591202313234037" remote="132408540000000000" Dst="0" />
+<file name="UtfString.php" server="hgp2020.cafe24.com//www/" local="132591202313293974" remote="132408540000000000" Dst="0" />
+</dwsync>

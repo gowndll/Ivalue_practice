@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202378833179" remote="132408540000000000" Dst="0" />
+<file name="AbstractTagAwareAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202379521338" remote="132408540000000000" Dst="0" />
+<file name="AdapterInterface.php" server="hgp2020.cafe24.com//www/" local="132591202380219471" remote="132408540000000000" Dst="0" />
+<file name="ApcuAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202380917607" remote="132408540000000000" Dst="0" />
+<file name="ArrayAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202381456166" remote="132408540000000000" Dst="0" />
+<file name="DoctrineAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202382144326" remote="132408540000000000" Dst="0" />
+<file name="ChainAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202382523315" remote="132408540000000000" Dst="0" />
+<file name="FilesystemAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202382932226" remote="132408540000000000" Dst="0" />
+<file name="FilesystemTagAwareAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202383480755" remote="132408540000000000" Dst="0" />
+<file name="MemcachedAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202383949506" remote="132408540000000000" Dst="0" />
+<file name="NullAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202384298573" remote="132408540000000000" Dst="0" />
+<file name="PdoAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202384847106" remote="132408540000000000" Dst="0" />
+<file name="PhpArrayAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202397224019" remote="132408540000000000" Dst="0" />
+<file name="PhpFilesAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202398510583" remote="132408540000000000" Dst="0" />
+<file name="ProxyAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202399248605" remote="132408540000000000" Dst="0" />
+<file name="RedisAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202402958691" remote="132408540000000000" Dst="0" />
+<file name="Psr16Adapter.php" server="hgp2020.cafe24.com//www/" local="132591202403327705" remote="132408540000000000" Dst="0" />
+<file name="RedisTagAwareAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202403786478" remote="132408540000000000" Dst="0" />
+<file name="SimpleCacheAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202404285146" remote="132408540000000000" Dst="0" />
+<file name="TagAwareAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202404933413" remote="132408540000000000" Dst="0" />
+<file name="TagAwareAdapterInterface.php" server="hgp2020.cafe24.com//www/" local="132591202405471973" remote="132408540000000000" Dst="0" />
+<file name="TraceableAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202405970648" remote="132408540000000000" Dst="0" />
+<file name="TraceableTagAwareAdapter.php" server="hgp2020.cafe24.com//www/" local="132591202406429414" remote="132408540000000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AlterOperation.php" server="hgp2020.cafe24.com//www/" local="132591202303209521" remote="132408540000000000" Dst="0" />
+<file name="Array2d.php" server="hgp2020.cafe24.com//www/" local="132591202303219494" remote="132408540000000000" Dst="0" />
+<file name="ArrayObj.php" server="hgp2020.cafe24.com//www/" local="132591202303329204" remote="132408540000000000" Dst="0" />
+<file name="CaseExpression.php" server="hgp2020.cafe24.com//www/" local="132591202303379068" remote="132408540000000000" Dst="0" />
+<file name="Condition.php" server="hgp2020.cafe24.com//www/" local="132591202303677278" remote="132408540000000000" Dst="0" />
+<file name="CreateDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202303697236" remote="132408540000000000" Dst="0" />
+<file name="DataType.php" server="hgp2020.cafe24.com//www/" local="132591202303809983" remote="132408540000000000" Dst="0" />
+<file name="Expression.php" server="hgp2020.cafe24.com//www/" local="132591202303828301" remote="132408540000000000" Dst="0" />
+<file name="ExpressionArray.php" server="hgp2020.cafe24.com//www/" local="132591202304132671" remote="132408540000000000" Dst="0" />
+<file name="FunctionCall.php" server="hgp2020.cafe24.com//www/" local="132591202304145080" remote="132408540000000000" Dst="0" />
+<file name="GroupKeyword.php" server="hgp2020.cafe24.com//www/" local="132591202304424862" remote="132408540000000000" Dst="0" />
+<file name="IndexHint.php" server="hgp2020.cafe24.com//www/" local="132591202304444810" remote="132408540000000000" Dst="0" />
+<file name="IntoKeyword.php" server="hgp2020.cafe24.com//www/" local="132591202304538463" remote="132408540000000000" Dst="0" />
+<file name="JoinKeyword.php" server="hgp2020.cafe24.com//www/" local="132591202304558630" remote="132408540000000000" Dst="0" />
+<file name="Key.php" server="hgp2020.cafe24.com//www/" local="132591202304890744" remote="132408540000000000" Dst="0" />
+<file name="Limit.php" server="hgp2020.cafe24.com//www/" local="132591202304910679" remote="132408540000000000" Dst="0" />
+<file name="LockExpression.php" server="hgp2020.cafe24.com//www/" local="132591202305026979" remote="132408540000000000" Dst="0" />
+<file name="OptionsArray.php" server="hgp2020.cafe24.com//www/" local="132591202305053309" remote="132408540000000000" Dst="0" />
+<file name="OrderKeyword.php" server="hgp2020.cafe24.com//www/" local="132591202305335586" remote="132408540000000000" Dst="0" />
+<file name="ParameterDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202305355862" remote="132408540000000000" Dst="0" />
+<file name="PartitionDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202305445316" remote="132408540000000000" Dst="0" />
+<file name="Reference.php" server="hgp2020.cafe24.com//www/" local="132591202305462016" remote="132408540000000000" Dst="0" />
+<file name="RenameOperation.php" server="hgp2020.cafe24.com//www/" local="132591202305821083" remote="132408540000000000" Dst="0" />
+<file name="SetOperation.php" server="hgp2020.cafe24.com//www/" local="132591202305831051" remote="132408540000000000" Dst="0" />
+<file name="UnionKeyword.php" server="hgp2020.cafe24.com//www/" local="132591202306130596" remote="132408540000000000" Dst="0" />
+</dwsync>

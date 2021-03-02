@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Auth.php" server="hgp2020.cafe24.com//www/" local="132591202762734099" remote="132284988000000000" Dst="0" />
+<file name="Endpoint.php" server="hgp2020.cafe24.com//www/" local="132591202762798504" remote="132284988000000000" Dst="0" />
+<file name="Error.php" server="hgp2020.cafe24.com//www/" local="132591202762856503" remote="132284988000000000" Dst="0" />
+<file name="Exception.php" server="hgp2020.cafe24.com//www/" local="132591202763092891" remote="132284988000000000" Dst="0" />
+<file name="Logger.php" server="hgp2020.cafe24.com//www/" local="132591202763170319" remote="132284988000000000" Dst="0" />
+<file name="Provider_Adapter.php" server="hgp2020.cafe24.com//www/" local="132591202763271562" remote="132284988000000000" Dst="0" />
+<file name="Provider_Model.php" server="hgp2020.cafe24.com//www/" local="132591202763399528" remote="132284988000000000" Dst="0" />
+<file name="Provider_Model_OAuth1.php" server="hgp2020.cafe24.com//www/" local="132591202763482459" remote="132284988000000000" Dst="0" />
+<file name="Provider_Model_OAuth2.php" server="hgp2020.cafe24.com//www/" local="132591202763594162" remote="132284988000000000" Dst="0" />
+<file name="Provider_Model_OpenID.php" server="hgp2020.cafe24.com//www/" local="132591202764111085" remote="132284988000000000" Dst="0" />
+<file name="Storage.php" server="hgp2020.cafe24.com//www/" local="132591202764453204" remote="132284988000000000" Dst="0" />
+<file name="StorageInterface.php" server="hgp2020.cafe24.com//www/" local="132591202764484737" remote="132284988000000000" Dst="0" />
+<file name="User.php" server="hgp2020.cafe24.com//www/" local="132591202764604738" remote="132284988000000000" Dst="0" />
+<file name="User_Activity.php" server="hgp2020.cafe24.com//www/" local="132591202764711216" remote="132284988000000000" Dst="0" />
+<file name="User_Contact.php" server="hgp2020.cafe24.com//www/" local="132591202764751111" remote="132284988000000000" Dst="0" />
+<file name="User_Profile.php" server="hgp2020.cafe24.com//www/" local="132591202764812851" remote="132284988000000000" Dst="0" />
+<file name="index.html" server="hgp2020.cafe24.com//www/" local="132591202764832784" remote="132284988000000000" Dst="0" />
+</dwsync>

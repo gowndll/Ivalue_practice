@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractExpression.php" server="hgp2020.cafe24.com//www/" local="132591202610606015" remote="132408540000000000" Dst="0" />
+<file name="ArrayExpression.php" server="hgp2020.cafe24.com//www/" local="132591202610625962" remote="132408540000000000" Dst="0" />
+<file name="ArrowFunctionExpression.php" server="hgp2020.cafe24.com//www/" local="132591202610715736" remote="132408540000000000" Dst="0" />
+<file name="AssignNameExpression.php" server="hgp2020.cafe24.com//www/" local="132591202610735671" remote="132408540000000000" Dst="0" />
+<file name="BlockReferenceExpression.php" server="hgp2020.cafe24.com//www/" local="132591202614814952" remote="132408540000000000" Dst="0" />
+<file name="CallExpression.php" server="hgp2020.cafe24.com//www/" local="132591202614858556" remote="132408540000000000" Dst="0" />
+<file name="ConditionalExpression.php" server="hgp2020.cafe24.com//www/" local="132591202615251316" remote="132408540000000000" Dst="0" />
+<file name="ConstantExpression.php" server="hgp2020.cafe24.com//www/" local="132591202615292895" remote="132408540000000000" Dst="0" />
+<file name="FilterExpression.php" server="hgp2020.cafe24.com//www/" local="132591202615571941" remote="132408540000000000" Dst="0" />
+<file name="FunctionExpression.php" server="hgp2020.cafe24.com//www/" local="132591202615807706" remote="132408540000000000" Dst="0" />
+<file name="GetAttrExpression.php" server="hgp2020.cafe24.com//www/" local="132591202615837627" remote="132408540000000000" Dst="0" />
+<file name="InlinePrint.php" server="hgp2020.cafe24.com//www/" local="132591202616195582" remote="132408540000000000" Dst="0" />
+<file name="MethodCallExpression.php" server="hgp2020.cafe24.com//www/" local="132591202616246824" remote="132408540000000000" Dst="0" />
+<file name="NameExpression.php" server="hgp2020.cafe24.com//www/" local="132591202616278558" remote="132408540000000000" Dst="0" />
+<file name="NullCoalesceExpression.php" server="hgp2020.cafe24.com//www/" local="132591202616305684" remote="132408540000000000" Dst="0" />
+<file name="ParentExpression.php" server="hgp2020.cafe24.com//www/" local="132591202616564110" remote="132408540000000000" Dst="0" />
+<file name="TempNameExpression.php" server="hgp2020.cafe24.com//www/" local="132591202616614320" remote="132408540000000000" Dst="0" />
+<file name="TestExpression.php" server="hgp2020.cafe24.com//www/" local="132591202617676137" remote="132408540000000000" Dst="0" />
+<file name="VariadicExpression.php" server="hgp2020.cafe24.com//www/" local="132591202618408995" remote="132408540000000000" Dst="0" />
+</dwsync>

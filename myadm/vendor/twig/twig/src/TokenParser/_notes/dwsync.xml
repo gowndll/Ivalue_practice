@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202626805913" remote="132408540000000000" Dst="0" />
+<file name="ApplyTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202626855776" remote="132408540000000000" Dst="0" />
+<file name="AutoEscapeTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202626875720" remote="132408540000000000" Dst="0" />
+<file name="BlockTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202626915609" remote="132408540000000000" Dst="0" />
+<file name="DeprecatedTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202627282476" remote="132408540000000000" Dst="0" />
+<file name="DoTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202627326596" remote="132408540000000000" Dst="0" />
+<file name="EmbedTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202627346554" remote="132408540000000000" Dst="0" />
+<file name="ExtendsTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202627402383" remote="132408540000000000" Dst="0" />
+<file name="FilterTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202627671517" remote="132408540000000000" Dst="0" />
+<file name="FlushTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202627731354" remote="132408540000000000" Dst="0" />
+<file name="ForTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202628069339" remote="132408540000000000" Dst="0" />
+<file name="FromTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202628113065" remote="132408540000000000" Dst="0" />
+<file name="IfTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202628155216" remote="132408540000000000" Dst="0" />
+<file name="ImportTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202628204748" remote="132408540000000000" Dst="0" />
+<file name="IncludeTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202628622653" remote="132408540000000000" Dst="0" />
+<file name="MacroTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202628792694" remote="132408540000000000" Dst="0" />
+<file name="SandboxTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202628815441" remote="132408540000000000" Dst="0" />
+<file name="SetTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202629073551" remote="132408540000000000" Dst="0" />
+<file name="SpacelessTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202629120031" remote="132408540000000000" Dst="0" />
+<file name="TokenParserInterface.php" server="hgp2020.cafe24.com//www/" local="132591202629493730" remote="132408540000000000" Dst="0" />
+<file name="UseTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202629513674" remote="132408540000000000" Dst="0" />
+<file name="WithTokenParser.php" server="hgp2020.cafe24.com//www/" local="132591202630033253" remote="132408540000000000" Dst="0" />
+</dwsync>

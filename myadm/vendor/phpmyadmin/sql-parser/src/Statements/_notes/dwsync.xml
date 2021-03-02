@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AlterStatement.php" server="hgp2020.cafe24.com//www/" local="132591202309863775" remote="132408540000000000" Dst="0" />
+<file name="AnalyzeStatement.php" server="hgp2020.cafe24.com//www/" local="132591202309883700" remote="132408540000000000" Dst="0" />
+<file name="CallStatement.php" server="hgp2020.cafe24.com//www/" local="132591202309993423" remote="132408540000000000" Dst="0" />
+<file name="BackupStatement.php" server="hgp2020.cafe24.com//www/" local="132591202310013367" remote="132408540000000000" Dst="0" />
+<file name="CheckStatement.php" server="hgp2020.cafe24.com//www/" local="132591202310143004" remote="132408540000000000" Dst="0" />
+<file name="ChecksumStatement.php" server="hgp2020.cafe24.com//www/" local="132591202310152995" remote="132408540000000000" Dst="0" />
+<file name="DeleteStatement.php" server="hgp2020.cafe24.com//www/" local="132591202310462171" remote="132408540000000000" Dst="0" />
+<file name="CreateStatement.php" server="hgp2020.cafe24.com//www/" local="132591202310482557" remote="132408540000000000" Dst="0" />
+<file name="DropStatement.php" server="hgp2020.cafe24.com//www/" local="132591202310541957" remote="132408540000000000" Dst="0" />
+<file name="ExplainStatement.php" server="hgp2020.cafe24.com//www/" local="132591202310561902" remote="132408540000000000" Dst="0" />
+<file name="InsertStatement.php" server="hgp2020.cafe24.com//www/" local="132591202310910960" remote="132408540000000000" Dst="0" />
+<file name="LoadStatement.php" server="hgp2020.cafe24.com//www/" local="132591202310930915" remote="132408540000000000" Dst="0" />
+<file name="LockStatement.php" server="hgp2020.cafe24.com//www/" local="132591202311000721" remote="132408540000000000" Dst="0" />
+<file name="MaintenanceStatement.php" server="hgp2020.cafe24.com//www/" local="132591202311020665" remote="132408540000000000" Dst="0" />
+<file name="NotImplementedStatement.php" server="hgp2020.cafe24.com//www/" local="132591202311359003" remote="132408540000000000" Dst="0" />
+<file name="OptimizeStatement.php" server="hgp2020.cafe24.com//www/" local="132591202311378946" remote="132408540000000000" Dst="0" />
+<file name="PurgeStatement.php" server="hgp2020.cafe24.com//www/" local="132591202311667925" remote="132408540000000000" Dst="0" />
+<file name="RenameStatement.php" server="hgp2020.cafe24.com//www/" local="132591202311687892" remote="132408540000000000" Dst="0" />
+<file name="RepairStatement.php" server="hgp2020.cafe24.com//www/" local="132591202311787613" remote="132408540000000000" Dst="0" />
+<file name="ReplaceStatement.php" server="hgp2020.cafe24.com//www/" local="132591202311817773" remote="132408540000000000" Dst="0" />
+<file name="RestoreStatement.php" server="hgp2020.cafe24.com//www/" local="132591202312087057" remote="132408540000000000" Dst="0" />
+<file name="SelectStatement.php" server="hgp2020.cafe24.com//www/" local="132591202312116722" remote="132408540000000000" Dst="0" />
+<file name="SetStatement.php" server="hgp2020.cafe24.com//www/" local="132591202312216458" remote="132408540000000000" Dst="0" />
+<file name="ShowStatement.php" server="hgp2020.cafe24.com//www/" local="132591202312226428" remote="132408540000000000" Dst="0" />
+<file name="TransactionStatement.php" server="hgp2020.cafe24.com//www/" local="132591202312555548" remote="132408540000000000" Dst="0" />
+<file name="TruncateStatement.php" server="hgp2020.cafe24.com//www/" local="132591202312575751" remote="132408540000000000" Dst="0" />
+<file name="UpdateStatement.php" server="hgp2020.cafe24.com//www/" local="132591202312637297" remote="132408540000000000" Dst="0" />
+</dwsync>

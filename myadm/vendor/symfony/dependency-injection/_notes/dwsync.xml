@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Alias.php" server="hgp2020.cafe24.com//www/" local="132591202504636906" remote="132408540000000000" Dst="0" />
+<file name="CHANGELOG.md" server="hgp2020.cafe24.com//www/" local="132591202507070400" remote="132408540000000000" Dst="0" />
+<file name="ChildDefinition.php" server="hgp2020.cafe24.com//www/" local="132591202507100329" remote="132408540000000000" Dst="0" />
+<file name="Container.php" server="hgp2020.cafe24.com//www/" local="132591202517208145" remote="132408540000000000" Dst="0" />
+<file name="ContainerAwareInterface.php" server="hgp2020.cafe24.com//www/" local="132591202517228103" remote="132408540000000000" Dst="0" />
+<file name="ContainerAwareTrait.php" server="hgp2020.cafe24.com//www/" local="132591202517404850" remote="132408540000000000" Dst="0" />
+<file name="ContainerBuilder.php" server="hgp2020.cafe24.com//www/" local="132591202517484646" remote="132408540000000000" Dst="0" />
+<file name="ContainerInterface.php" server="hgp2020.cafe24.com//www/" local="132591202517524527" remote="132408540000000000" Dst="0" />
+<file name="Definition.php" server="hgp2020.cafe24.com//www/" local="132591202517594345" remote="132408540000000000" Dst="0" />
+<file name="EnvVarLoaderInterface.php" server="hgp2020.cafe24.com//www/" local="132591202519259901" remote="132408540000000000" Dst="0" />
+<file name="EnvVarProcessorInterface.php" server="hgp2020.cafe24.com//www/" local="132591202519688755" remote="132408540000000000" Dst="0" />
+<file name="EnvVarProcessor.php" server="hgp2020.cafe24.com//www/" local="132591202519708691" remote="132408540000000000" Dst="0" />
+<file name="ExpressionLanguage.php" server="hgp2020.cafe24.com//www/" local="132591202521643523" remote="132408540000000000" Dst="0" />
+<file name="ExpressionLanguageProvider.php" server="hgp2020.cafe24.com//www/" local="132591202521703358" remote="132408540000000000" Dst="0" />
+<file name="LICENSE" server="hgp2020.cafe24.com//www/" local="132591202522565232" remote="132408540000000000" Dst="0" />
+<file name="Parameter.php" server="hgp2020.cafe24.com//www/" local="132591202530052982" remote="132408540000000000" Dst="0" />
+<file name="README.md" server="hgp2020.cafe24.com//www/" local="132591202531186362" remote="132408540000000000" Dst="0" />
+<file name="Reference.php" server="hgp2020.cafe24.com//www/" local="132591202531186362" remote="132408540000000000" Dst="0" />
+<file name="ResettableContainerInterface.php" server="hgp2020.cafe24.com//www/" local="132591202531281401" remote="132408540000000000" Dst="0" />
+<file name="ReverseContainer.php" server="hgp2020.cafe24.com//www/" local="132591202531560644" remote="132408540000000000" Dst="0" />
+<file name="ServiceLocator.php" server="hgp2020.cafe24.com//www/" local="132591202531590562" remote="132408540000000000" Dst="0" />
+<file name="ServiceSubscriberInterface.php" server="hgp2020.cafe24.com//www/" local="132591202532079531" remote="132408540000000000" Dst="0" />
+<file name="TaggedContainerInterface.php" server="hgp2020.cafe24.com//www/" local="132591202532129392" remote="132408540000000000" Dst="0" />
+<file name="TypedReference.php" server="hgp2020.cafe24.com//www/" local="132591202532152405" remote="132408540000000000" Dst="0" />
+<file name="Variable.php" server="hgp2020.cafe24.com//www/" local="132591202532194663" remote="132408540000000000" Dst="0" />
+<file name="composer.json" server="hgp2020.cafe24.com//www/" local="132591202532248561" remote="132408540000000000" Dst="0" />
+</dwsync>
